@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK KR,32,&H00FFFFFF,&H000000FF,&H00191510,&H00191510,0,0,0,0,100,100,0,0,1,2,0,2,40,40,22,1
+Style: Note,Noto Sans CJK KR,20,&H0076F3BB,&H000000FF,&H00191510,&H00191510,0,0,0,0,100,100,0,0,1,1,0,8,20,20,12,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:48.00,Note,,0,0,0,,가상 데이터 시연 · 실제 웹 앱 조작 화면 · Pleos SDK 미연동
+Dialogue: 0,0:00:00.00,0:00:06.00,Default,,0,0,0,,01  파츠세이버 | 소모품 8종과 유지비를 한눈에
+Dialogue: 0,0:00:06.00,0:00:11.00,Default,,0,0,0,,02  가상 주행거리 44,200 → 45,200 km 입력
+Dialogue: 0,0:00:11.00,0:00:16.00,Default,,0,0,0,,거리 변경 즉시 재계산 | 800 km 남음 → 200 km 초과
+Dialogue: 0,0:00:16.00,0:00:21.00,Default,,0,0,0,,03  알림 상세 확인 | 실제 마모·교체 확정과 구분
+Dialogue: 0,0:00:21.00,0:00:29.00,Default,,0,0,0,,04  정비일·주행거리·실제 비용 105,000원 입력
+Dialogue: 0,0:00:29.00,0:00:33.00,Default,,0,0,0,,저장 완료 | 다음 점검·교체 일정 자동 갱신
+Dialogue: 0,0:00:33.00,0:00:38.00,Default,,0,0,0,,엔진오일 다음 기준 55,200 km | 2027년 11월 15일
+Dialogue: 0,0:00:38.00,0:00:42.00,Default,,0,0,0,,정비 이력 저장 | 기록별 예상 비용과 실제 지출 비교
+Dialogue: 0,0:00:42.00,0:00:48.00,Default,,0,0,0,,05  유지비 리포트 | 예상 예산·월별 지출·향후 계획

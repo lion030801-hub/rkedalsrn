@@ -1,0 +1,20 @@
+✔ 8 consumables; EV excludes engine-only items (1.903679ms)
+✔ distance transition: 800 remaining to 200 exceeded (1.338971ms)
+✔ time takes priority when distance remains (0.299391ms)
+✔ month end clamps; leap year (0.284534ms)
+✔ replacement updates next mileage/date, edit replaces instead of duplicating (12.781469ms)
+✔ inspection does not reset scheduled replacement (0.377829ms)
+✔ inspection resets condition-check cadence (0.347512ms)
+✔ reject negative cost, future dates, excess mileage, invalid date (0.719499ms)
+✔ reject chronological mileage conflict (0.603592ms)
+✔ period-only and distance-only policies (0.539702ms)
+✔ budget OR horizon and exact annual/monthly totals (0.556163ms)
+✔ latest record chosen by date, independent of insertion order (0.268012ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 190.716026
